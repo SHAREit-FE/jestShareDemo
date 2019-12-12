@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 功能 1`] = `
+Object {
+  "age": 18,
+  "name": "mandy2",
+}
+`;
